@@ -1,0 +1,13 @@
+Game Test (run) ... ERROR
+======================================================================
+ERROR: Game Test (run)
+----------------------------------------------------------------------
+  File "C:/Users/Administrator/Desktop/GAutomator-master/testcase/runner.py", line 62, in <module>
+    run()
+  File "C:/Users/Administrator/Desktop/GAutomator-master/testcase/runner.py", line 57, in run
+    report.report(False,"Game Test",e.message)
+  File "C:\Users\Administrator\Desktop\GAutomator-master\wpyscripts\wetest\reporter.py", line 118, in report
+    stack="".join(traceback.format_stack())
+
+
+
